@@ -1,0 +1,117 @@
+# ====== #
+# Custom #
+# ====== #
+[uU]nity/[aA]ssets/[sS]cripts/framework/core/ApplicationUtility.Revision.cs*
+[uU]nity/[aA]ssets/[pP]lugins/tivola_framework/core/ApplicationUtility.Revision.cs*
+[uU]nity/[aA]ssets/[pP]lugins/tivola_framework/core/ApplicationUtility.PlayerSettings.cs*
+[uU]nity/[aA]ssets/[sS]treaming[aA]ssets/serverstateignore*
+
+[uU]nity/[eE]ditor[hH]osted[sS]erver[dD]ata/
+[uU]nity/[sS]erver[dD]ata/
+
+# ===================== #
+# Tivola tool generated #
+# ===================== #
+editor_only_*_mesh.asset*
+
+# =============== #
+# Unity generated #
+# =============== #
+[lL]ogs/
+[tT]emp/
+[oO]bj/
+[uU]nity[gG]enerated/
+[uU]nity/[mM]emory[cC]aptures/
+[uU]nity/[lL]ibrary/
+[uU]nity/[bB]uild/
+![uU]nity/[bB]uild/.keepme
+[uU]nity/[aA]ssets/[sS]treaming[aA]ssets/scene_library.json*
+[uU]nity/[aA]ssets/[sS]treaming[aA]ssets/[bB]undles/*
+![uU]nity/[aA]ssets/[sS]treaming[aA]ssets/[bB]undles/.keepme
+[uU]nity/[aA]ssets/[sS]treaming[aA]ssets/[cC]ommandline.txt*
+[uU]nity/[aA]ssets/[sS]treaming[aA]ssets/*.save*
+[uU]nity/SwitchIL2CPPCache/
+[uU]nity/SwitchIL2CPPStats/
+[uU]nity/[aA]ssets/[tT]odo.txt
+[uU]nity/[dD]ebug/
+[rR]eports/*
+![rR]eports/.keepme
+.[iI]gnore/*
+!.[iI]gnore/.keepme
+#[uU]nity/[pP]roject[sS]ettings/[fF]bx[eE]xport[sS]ettings.asset
+[uU]nity/[uU]ser[sS]ettings/
+[uU]nity/*.csproj
+[uU]nity/*.sln
+
+
+# ===================================== #
+# Unity Quick Search generated          #
+# ===================================== #
+[uU]nity/[aA]ssets/[aA]ssets.index*
+
+# ===================================== #
+# Unity Addressables generated          #
+# ===================================== #
+[uU]nity/[aA]ssets/[sS]treaming[aA]ssets/[aA][aA]/
+[uU]nity/[aA]ssets/[sS]treaming[aA]ssets/[aA][aA].meta
+[uU]nity/[aA]ssets/[aA]ddressable[aA]ssets[dD]ata/*/addressables_content_state.bin*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+.vscode/
+.vs/
+*.svd
+*.userprefs
+*.pidb
+*.suo
+*.user
+*.unityproj
+*.booproj
+.vsconfig
+
+# ===================================== #
+# Azure Functions generated             #
+# ===================================== #
+[pP]layfab/[pP]lay[fF]ab[fF]unctions/[fF]unctions/bin/*
+[pP]layfab/[pP]lay[fF]ab[fF]unctions/[rR]equests[rR]esponse/bin/*
+[pP]layfab/[pP]lay[fF]ab[fF]unctions/[tT]est/bin/*
+*.DotSettings
+
+# ===================================== #
+# Rider generated                       #
+# ===================================== #
+.idea/
+[uU]nity/[aA]ssets/[pP]lugins/[eE]ditor/[jJ]et[bB]rains*
+
+# =============== #
+# Krita generated #
+# =============== #
+*.png~
+*.tga~
+*.bmp~
+
+# =============== #
+# Maya generated  #
+# =============== #
+maya/shaderfx/*.bck
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+#Icon?
+ehthumbs.db
+Thumbs.db
+
+# ================ #
+# Server generated #
+# ================ #
+unity/Assets/scripts/tivola_server/generated/
+unity/Assets/scripts/tivola_server/generated.meta
+
+.reviewboardhookrc
